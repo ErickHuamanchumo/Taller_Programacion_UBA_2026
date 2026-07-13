@@ -1,0 +1,315 @@
+{
+  "factor": 1.315,
+  "resumen": [
+    {
+      "Año": 2024,
+      "Base total": 46860,
+      "No respondieron ESTADO": 56,
+      "No respondieron ponderado": 70835,
+      "Respondieron": 46804,
+      "Ocupados": 21132,
+      "Ocupados ponderado": 13596484
+    },
+    {
+      "Año": 2025,
+      "Base total": 43703,
+      "No respondieron ESTADO": 65,
+      "No respondieron ponderado": 62868,
+      "Respondieron": 43638,
+      "Ocupados": 19698,
+      "Ocupados ponderado": 13503383
+    }
+  ],
+  "max_corr_pair": [
+    "SECTOR",
+    "CH08"
+  ],
+  "max_corr_diff": 0.04792914742397009,
+  "mean_corr_diff": 0.010595299018598988,
+  "informalidad": [
+    {
+      "Año": 2024,
+      "Grupo": "Total",
+      "Formal (%)": 76.44000356304596,
+      "Informal lower-tier (%)": 23.559996436954044,
+      "N muestral clasificado": 12968,
+      "Población expandida": 8217688
+    },
+    {
+      "Año": 2024,
+      "Grupo": "Mujeres",
+      "Formal (%)": 72.71510357949502,
+      "Informal lower-tier (%)": 27.28489642050497,
+      "N muestral clasificado": 6205,
+      "Población expandida": 3877167
+    },
+    {
+      "Año": 2024,
+      "Grupo": "Hombres",
+      "Formal (%)": 79.767267569953,
+      "Informal lower-tier (%)": 20.23273243004699,
+      "N muestral clasificado": 6763,
+      "Población expandida": 4340521
+    },
+    {
+      "Año": 2025,
+      "Grupo": "Total",
+      "Formal (%)": 75.69168707884687,
+      "Informal lower-tier (%)": 24.30831292115313,
+      "N muestral clasificado": 11768,
+      "Población expandida": 8125459
+    },
+    {
+      "Año": 2025,
+      "Grupo": "Mujeres",
+      "Formal (%)": 70.58715236205303,
+      "Informal lower-tier (%)": 29.412847637946964,
+      "N muestral clasificado": 5734,
+      "Población expandida": 3862064
+    },
+    {
+      "Año": 2025,
+      "Grupo": "Hombres",
+      "Formal (%)": 80.31571083608252,
+      "Informal lower-tier (%)": 19.684289163917487,
+      "N muestral clasificado": 6034,
+      "Población expandida": 4263395
+    }
+  ],
+  "income_summary": [
+    {
+      "Año": 2024,
+      "Estatus": "Formal asalariado",
+      "Ingreso": "P21",
+      "N": 7899,
+      "Media ponderada": 1217056.1896259543,
+      "Mediana ponderada": 1052000.0
+    },
+    {
+      "Año": 2024,
+      "Estatus": "Formal asalariado",
+      "Ingreso": "P47T",
+      "N": 7741,
+      "Media ponderada": 1323648.9665100477,
+      "Mediana ponderada": 1117750.0
+    },
+    {
+      "Año": 2024,
+      "Estatus": "Informal lower-tier",
+      "Ingreso": "P21",
+      "N": 2627,
+      "Media ponderada": 417498.78472632816,
+      "Mediana ponderada": 328750.0
+    },
+    {
+      "Año": 2024,
+      "Estatus": "Informal lower-tier",
+      "Ingreso": "P47T",
+      "N": 2598,
+      "Media ponderada": 543553.7728169557,
+      "Mediana ponderada": 460250.0
+    },
+    {
+      "Año": 2025,
+      "Estatus": "Formal asalariado",
+      "Ingreso": "P21",
+      "N": 7216,
+      "Media ponderada": 1317386.8831392361,
+      "Mediana ponderada": 1000000.0
+    },
+    {
+      "Año": 2025,
+      "Estatus": "Formal asalariado",
+      "Ingreso": "P47T",
+      "N": 7040,
+      "Media ponderada": 1422515.8115449494,
+      "Mediana ponderada": 1200000.0
+    },
+    {
+      "Año": 2025,
+      "Estatus": "Informal lower-tier",
+      "Ingreso": "P21",
+      "N": 2416,
+      "Media ponderada": 530778.0559040844,
+      "Mediana ponderada": 400000.0
+    },
+    {
+      "Año": 2025,
+      "Estatus": "Informal lower-tier",
+      "Ingreso": "P47T",
+      "N": 2389,
+      "Media ponderada": 654190.9753146957,
+      "Mediana ponderada": 560000.0
+    }
+  ],
+  "missing_selected": [
+    {
+      "Año": 2024,
+      "Base": "Respondieron",
+      "Variable": "EMPLEO",
+      "Porcentaje_faltantes": 54.884197931800706,
+      "N": 46804
+    },
+    {
+      "Año": 2024,
+      "Base": "Respondieron",
+      "Variable": "SECTOR",
+      "Porcentaje_faltantes": 56.68105290146141,
+      "N": 46804
+    },
+    {
+      "Año": 2024,
+      "Base": "Respondieron",
+      "Variable": "PP04C",
+      "Porcentaje_faltantes": 60.63797965985813,
+      "N": 46804
+    },
+    {
+      "Año": 2024,
+      "Base": "Respondieron",
+      "Variable": "P21",
+      "Porcentaje_faltantes": 9.133834714981626,
+      "N": 46804
+    },
+    {
+      "Año": 2024,
+      "Base": "Respondieron",
+      "Variable": "P47T",
+      "Porcentaje_faltantes": 12.614306469532519,
+      "N": 46804
+    },
+    {
+      "Año": 2024,
+      "Base": "Respondieron",
+      "Variable": "PP07H",
+      "Porcentaje_faltantes": 67.32757883941544,
+      "N": 46804
+    },
+    {
+      "Año": 2024,
+      "Base": "Ocupados",
+      "Variable": "EMPLEO",
+      "Porcentaje_faltantes": 0.07571455612341473,
+      "N": 21132
+    },
+    {
+      "Año": 2024,
+      "Base": "Ocupados",
+      "Variable": "SECTOR",
+      "Porcentaje_faltantes": 4.0554609123604015,
+      "N": 21132
+    },
+    {
+      "Año": 2024,
+      "Base": "Ocupados",
+      "Variable": "PP04C",
+      "Porcentaje_faltantes": 12.819420783645654,
+      "N": 21132
+    },
+    {
+      "Año": 2024,
+      "Base": "Ocupados",
+      "Variable": "P21",
+      "Porcentaje_faltantes": 20.22998296422487,
+      "N": 21132
+    },
+    {
+      "Año": 2024,
+      "Base": "Ocupados",
+      "Variable": "P47T",
+      "Porcentaje_faltantes": 22.080257429490818,
+      "N": 21132
+    },
+    {
+      "Año": 2024,
+      "Base": "Ocupados",
+      "Variable": "PP07H",
+      "Porcentaje_faltantes": 27.635812985046375,
+      "N": 21132
+    },
+    {
+      "Año": 2025,
+      "Base": "Respondieron",
+      "Variable": "EMPLEO",
+      "Porcentaje_faltantes": 54.883358540721396,
+      "N": 43638
+    },
+    {
+      "Año": 2025,
+      "Base": "Respondieron",
+      "Variable": "SECTOR",
+      "Porcentaje_faltantes": 56.579128282689396,
+      "N": 43638
+    },
+    {
+      "Año": 2025,
+      "Base": "Respondieron",
+      "Variable": "PP04C",
+      "Porcentaje_faltantes": 61.033961226454004,
+      "N": 43638
+    },
+    {
+      "Año": 2025,
+      "Base": "Respondieron",
+      "Variable": "P21",
+      "Porcentaje_faltantes": 8.969246986571337,
+      "N": 43638
+    },
+    {
+      "Año": 2025,
+      "Base": "Respondieron",
+      "Variable": "P47T",
+      "Porcentaje_faltantes": 12.727439387689628,
+      "N": 43638
+    },
+    {
+      "Año": 2025,
+      "Base": "Respondieron",
+      "Variable": "PP07H",
+      "Porcentaje_faltantes": 68.04848984829735,
+      "N": 43638
+    },
+    {
+      "Año": 2025,
+      "Base": "Ocupados",
+      "Variable": "EMPLEO",
+      "Porcentaje_faltantes": 0.05076657528683116,
+      "N": 19698
+    },
+    {
+      "Año": 2025,
+      "Base": "Ocupados",
+      "Variable": "SECTOR",
+      "Porcentaje_faltantes": 3.8074931465123365,
+      "N": 19698
+    },
+    {
+      "Año": 2025,
+      "Base": "Ocupados",
+      "Variable": "PP04C",
+      "Porcentaje_faltantes": 13.676515382272312,
+      "N": 19698
+    },
+    {
+      "Año": 2025,
+      "Base": "Ocupados",
+      "Variable": "P21",
+      "Porcentaje_faltantes": 19.87003756726571,
+      "N": 19698
+    },
+    {
+      "Año": 2025,
+      "Base": "Ocupados",
+      "Variable": "P47T",
+      "Porcentaje_faltantes": 21.900700578738956,
+      "N": 19698
+    },
+    {
+      "Año": 2025,
+      "Base": "Ocupados",
+      "Variable": "PP07H",
+      "Porcentaje_faltantes": 29.216164077571328,
+      "N": 19698
+    }
+  ]
+}
