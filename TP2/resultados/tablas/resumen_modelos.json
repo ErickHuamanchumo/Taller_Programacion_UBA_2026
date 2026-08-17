@@ -1,0 +1,10 @@
+{
+  "n_base": 90563,
+  "n_ocupados": 40830,
+  "n_analitica": 24736,
+  "n_modelo_completo": 5508,
+  "varianza_PC1": 0.31457110613134764,
+  "varianza_PC2": 0.2690323836104915,
+  "ARI_kmeans_k2": 0.05699138185865265,
+  "ARI_kmodes_k2": 0.20651410591475358
+}
